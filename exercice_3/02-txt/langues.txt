@@ -1,0 +1,21 @@
+Linguistique appliquée : Langues indo-européennes et langages du web
+
+    Accueil
+    Grammaire du html-css
+    Langues indo-europ�ennes et langages du web
+
+Tableau récupitulatif - Langues romanes
+
+Romania occidentale 	Romania orientale
+ibéro-romanes 	italo-romanes
+occitano-romanes 	sarde
+gallo-italiques 	dalmate
+gallo-romanes 	romanes orientales
+rhéto-romanes 	
+
+Tableau récupitulatif - Langages du web
+
+langages statiques 	langages dynamiques
+html 	jsp
+css 	php
+xml 	asp

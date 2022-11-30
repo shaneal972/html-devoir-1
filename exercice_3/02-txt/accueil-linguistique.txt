@@ -1,0 +1,10 @@
+Linguistique appliquée
+
+    Accueil
+    Grammaire du html-css
+    Langues indo-européennes et langages du web
+
+Que peut la linguistiquepour le web ?
+<image : "linguistique.png", description:"linguistique et langages web">
+
+Le Html et le CSS sont les deux principaux langages qui permettent de réaliser des pages web. La linguistique est une science humaine qui a pour objet l'étude de la langue. 
